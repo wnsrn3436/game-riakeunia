@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="보스미사" type="RESOURCE"/>
+  <resource name="보스미사2" type="RESOURCE"/>
+  <resource name="qhtm" type="RESOURCE"/>
+  <resource name="적미사일" type="RESOURCE"/>
+  <resource name="적군" type="RESOURCE"/>
+  <resource name="적생산" type="RESOURCE"/>
+</resources>

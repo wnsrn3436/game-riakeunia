@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="KEYBOARD" id="88">
+  <actions>
+    <action id="203" library="1">
+      <!--action name: Kill_Object-->
+      <kind>NORMAL</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_kill_object</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>그냥</appliesTo>
+      <arguments/>
+    </action>
+    <action id="201" library="1">
+      <!--action name: Create_Object-->
+      <kind>NORMAL</kind>
+      <allowRelative>true</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_create_object</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="GMOBJECT">캐릭따라다니는..</argument>
+        <argument kind="EXPRESSION">random(room_width)</argument>
+        <argument kind="EXPRESSION">0</argument>
+      </arguments>
+    </action>
+    <action id="202" library="1">
+      <!--action name: Change_Object-->
+      <kind>NORMAL</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_change_object</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>object38</appliesTo>
+      <arguments>
+        <argument kind="GMOBJECT">object7</argument>
+        <argument kind="MENU">0</argument>
+      </arguments>
+    </action>
+    <action id="201" library="1">
+      <!--action name: Create_Object-->
+      <kind>NORMAL</kind>
+      <allowRelative>true</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_create_object</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="GMOBJECT">적생산</argument>
+        <argument kind="EXPRESSION">random(room_width)</argument>
+        <argument kind="EXPRESSION">0</argument>
+      </arguments>
+    </action>
+    <action id="202" library="1">
+      <!--action name: Change_Object-->
+      <kind>NORMAL</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>FUNCTION</actionType>
+      <functionName>action_change_object</functionName>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="GMOBJECT">대화창</argument>
+        <argument kind="MENU">0</argument>
+      </arguments>
+    </action>
+  </actions>
+</event>

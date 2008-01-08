@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="보스미사일" type="RESOURCE"/>
+  <resource name="보스_2" type="RESOURCE"/>
+  <resource name="적미사일" type="RESOURCE"/>
+  <resource name="적군" type="RESOURCE"/>
+</resources>

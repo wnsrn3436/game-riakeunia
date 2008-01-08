@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="메인메뉴" type="GROUP"/>
+  <resource name="기타" type="GROUP"/>
+  <resource name="대화" type="GROUP"/>
+  <resource name="캐릭터" type="GROUP"/>
+  <resource name="적" type="GROUP"/>
+  <resource name="치트" type="GROUP"/>
+</resources>

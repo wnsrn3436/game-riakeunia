@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="배경음" type="RESOURCE"/>
+  <resource filename="캐릭따라다니는__" name="캐릭따라다니는.." type="RESOURCE"/>
+  <resource name="미사일" type="RESOURCE"/>
+  <resource name="재생" type="RESOURCE"/>
+  <resource filename="저장_불러오기" name="저장.불러오기" type="RESOURCE"/>
+  <resource name="보스헬스바" type="RESOURCE"/>
+  <resource name="힐" type="RESOURCE"/>
+  <resource name="보스헬스바2" type="RESOURCE"/>
+  <resource name="그냥" type="RESOURCE"/>
+  <resource name="보스용미사일" type="RESOURCE"/>
+</resources>

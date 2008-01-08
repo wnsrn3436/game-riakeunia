@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="메인 효과음" type="RESOURCE"/>
+  <resource name="겜시작시배경음" type="RESOURCE"/>
+  <resource name="메인배경" type="RESOURCE"/>
+  <resource name="버튼음" type="RESOURCE"/>
+  <resource name="미사일" type="RESOURCE"/>
+  <resource name="필살" type="RESOURCE"/>
+</resources>

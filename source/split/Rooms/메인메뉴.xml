@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<room>
+  <caption>만든이:(네이버)wnsrn3436</caption>
+  <size height="500" width="300"/>
+  <grid>
+    <isometric>false</isometric>
+    <snap x="16" y="16"/>
+  </grid>
+  <speed>30</speed>
+  <persistent>false</persistent>
+  <creationCode/>
+  <backgroundColor>000000</backgroundColor>
+  <drawBackgroundColor>true</drawBackgroundColor>
+  <backgrounds>
+    <backgroundDef>
+      <visibleOnRoomStart>true</visibleOnRoomStart>
+      <isForeground>false</isForeground>
+      <backgroundImage>첫배경</backgroundImage>
+      <offset x="0" y="0"/>
+      <speed x="0" y="0"/>
+      <tileHorizontally>true</tileHorizontally>
+      <tileVertically>true</tileVertically>
+      <stretch>false</stretch>
+    </backgroundDef>
+    <backgroundDef>
+      <visibleOnRoomStart>false</visibleOnRoomStart>
+      <isForeground>false</isForeground>
+      <backgroundImage/>
+      <offset x="0" y="0"/>
+      <speed x="0" y="0"/>
+      <tileHorizontally>true</tileHorizontally>
+      <tileVertically>true</tileVertically>
+      <stretch>false</stretch>
+    </backgroundDef>
+    <backgroundDef>
+      <visibleOnRoomStart>false</visibleOnRoomStart>
+      <isForeground>false</isForeground>
+      <backgroundImage/>
+      <offset x="0" y="0"/>
+      <speed x="0" y="0"/>
+      <tileHorizontally>true</tileHorizontally>
+      <tileVertically>true</tileVertically>
+      <stretch>false</stretch>
+    </backgroundDef>
+    <backgroundDef>
+      <visibleOnRoomStart>false</visibleOnRoomStart>
+      <isForeground>false</isForeground>
+      <backgroundImage/>
+      <offset x="0" y="0"/>
+      <speed x="0" y="0"/>
+      <tileHorizontally>true</tileHorizontally>
+      <tileVertically>true</tileVertically>
+      <stretch>false</stretch>
+    </backgroundDef>
+    <backgroundDef>
+      <visibleOnRoomStart>false</visibleOnRoomStart>
+      <isForeground>false</isForeground>
+      <backgroundImage/>
+      <offset x="0" y="0"/>
+      <speed x="0" y="0"/>
+      <tileHorizontally>true</tileHorizontally>
+      <tileVertically>true</tileVertically>
+      <stretch>false</stretch>
+    </backgroundDef>
+    <backgroundDef>
+      <visibleOnRoomStart>false</visibleOnRoomStart>
+      <isForeground>false</isForeground>
+      <backgroundImage/>
+      <offset x="0" y="0"/>
+      <speed x="0" y="0"/>
+      <tileHorizontally>true</tileHorizontally>
+      <tileVertically>true</tileVertically>
+      <stretch>false</stretch>
+    </backgroundDef>
+    <backgroundDef>
+      <visibleOnRoomStart>false</visibleOnRoomStart>
+      <isForeground>false</isForeground>
+      <backgroundImage/>
+      <offset x="0" y="0"/>
+      <speed x="0" y="0"/>
+      <tileHorizontally>true</tileHorizontally>
+      <tileVertically>true</tileVertically>
+      <stretch>false</stretch>
+    </backgroundDef>
+    <backgroundDef>
+      <visibleOnRoomStart>false</visibleOnRoomStart>
+      <isForeground>false</isForeground>
+      <backgroundImage/>
+      <offset x="0" y="0"/>
+      <speed x="0" y="0"/>
+      <tileHorizontally>true</tileHorizontally>
+      <tileVertically>true</tileVertically>
+      <stretch>false</stretch>
+    </backgroundDef>
+  </backgrounds>
+  <enableViews>false</enableViews>
+  <instances>
+    <instance>
+      <object>시작하기</object>
+      <position x="64" y="48"/>
+      <creationCode/>
+      <locked>false</locked>
+    </instance>
+    <instance>
+      <object>메인배경</object>
+      <position x="0" y="0"/>
+      <creationCode/>
+      <locked>false</locked>
+    </instance>
+  </instances>
+  <tiles/>
+  <editorSettings remember="false"/>
+</room>
